@@ -28,11 +28,11 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 
 1 added, 0 removed, 20 changed.
 
-### Added
+### $\color{#3FB950}\textbf{Added}$
 
 - <Hidden> Completed New Player Experience (Account) (64208)
 
-### Changed
+### $\color{#D29922}\textbf{Changed}$
 
 - **Baron Rivendare kills (Stratholme) (1097)**
   - `Flags`: 524289 → 1572865
@@ -83,7 +83,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 
 0 added, 0 removed, 3 changed.
 
-### Changed
+### $\color{#D29922}\textbf{Changed}$
 
 - **Whiskers the Rat (16549)**
   - `DisplayID_0`: 2176 → 148791
@@ -96,7 +96,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 
 14 added, 0 removed, 41 changed.
 
-### Added
+### $\color{#3FB950}\textbf{Added}$
 
 - (60383)
 - (60405)
@@ -113,7 +113,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 - (60439)
 - (60440)
 
-### Changed
+### $\color{#D29922}\textbf{Changed}$
 
 - **(21011)**
   - `TagText_lang`: Increases the damage of your \|cFFFFFFFFSpells\|r by up to %d\n\nIncreased by \|cFFFFFFFFSpell Damage\|r and \|cFFFFFFF… → Increases the damage of your \|cFFFFFFFFSpells\|r by up to %d\n\nIncreased by \|cFFFFFFFFSpell Damage\|r and \|cFFFFFFF…
@@ -202,13 +202,13 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 
 3 added, 0 removed, 36 changed.
 
-### Added
+### $\color{#3FB950}\textbf{Added}$
 
 - (287416)
 - (287423)
 - (287505)
 
-### Changed
+### $\color{#D29922}\textbf{Changed}$
 
 - **(3382)**
   - `SubclassID`: 1 → 2
@@ -293,7 +293,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 
 7 added, 0 removed, 9 changed, 1 mass-changed column(s).
 
-### Added
+### $\color{#3FB950}\textbf{Added}$
 
 - (238283)
 - (238284)
@@ -303,7 +303,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 - (238608)
 - (238431)
 
-### Changed
+### $\color{#D29922}\textbf{Changed}$
 
 - **(97055)**
   - `CategoryCoolDownMSec`: 0 → 3000
@@ -324,7 +324,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 - **(213462)**
   - `SpellID`: 5006 → 435
 
-### Mass changes
+### $\color{#A371F7}\textbf{Mass changes}$
 
 - `SpellCategoryID` changed in 97 rows (e.g. 0 → 2593, 79 → 2593, 79 → 2593)
 
@@ -332,19 +332,19 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 
 3 added, 3 removed, 122 changed.
 
-### Added
+### $\color{#3FB950}\textbf{Added}$
 
 - Monster - Shield, Paladin (286140)
 - Truskis' Cheesecake Slice (287416)
 - Tender Strider Meat (287505)
 
-### Removed
+### $\color{#F85149}\textbf{Removed}$
 
 - Leafre's Ring of Great Resistance (274978)
 - Leafre's Ring of Precise Spell Power (276765)
 - Leafre's Ring of Armor Piercing (285326)
 
-### Changed
+### $\color{#D29922}\textbf{Changed}$
 
 - **Bronze Shortsword (2850)**
   - `Bonding`: 0 → 2
@@ -639,7 +639,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 
 7 added, 0 removed, 0 changed.
 
-### Added
+### $\color{#3FB950}\textbf{Added}$
 
 - (170384)
 - (170385)
@@ -653,11 +653,11 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 
 0 added, 1 removed, 1 changed.
 
-### Removed
+### $\color{#F85149}\textbf{Removed}$
 
 - (3002)
 
-### Changed
+### $\color{#D29922}\textbf{Changed}$
 
 - **(2997)**
   - `MapDescription0_lang`: Off the coast of Kalimdor is the ceremonial islands of the Darkspear tribe. → Off the coast of Kalimdor are the ceremonial islands of the Darkspear tribe.
@@ -668,7 +668,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 
 37 added, 15 removed, 0 changed, 2 mass-changed column(s).
 
-### Added
+### $\color{#3FB950}\textbf{Added}$
 
 - Holy Forgefire (1322218)
 - Corpse Chopper (1322303)
@@ -708,7 +708,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 - Revelation (1323419)
 - Totemic Recall (1323420)
 
-### Removed
+### $\color{#F85149}\textbf{Removed}$
 
 - Create Test Ring Test (405667)
 - Roast Beast (1249805)
@@ -726,7 +726,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 - Infernal (1322004)
 - Infernal (1322005)
 
-### Mass changes
+### $\color{#A371F7}\textbf{Mass changes}$
 
 - `Description_lang` changed in 661 rows (e.g. Shapeshift into cat form, inc… → Shapeshift into Cat Form, inc…, Transforms the druid into a t… → Shapeshift into Travel Form, …, Shapeshift into aquatic form,… → Shapeshift into Aquatic Form,…)
 - `AuraDescription_lang` changed in 185 rows (e.g. Immunity to Polymorph effects… → Immunity to Polymorph effects…, Chance to be hit by melee and… → Chance to be hit by melee and…, Immune to Polymorph effects. … → Immune to Polymorph effects. …)
@@ -735,7 +735,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 
 14 added, 9 removed, 6 changed.
 
-### Added
+### $\color{#3FB950}\textbf{Added}$
 
 - (247340)
 - (248440)
@@ -752,7 +752,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 - (248548)
 - (248549)
 
-### Removed
+### $\color{#F85149}\textbf{Removed}$
 
 - (115921)
 - (119851)
@@ -764,7 +764,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 - (248422)
 - (248423)
 
-### Changed
+### $\color{#D29922}\textbf{Changed}$
 
 - **(124240)**
   - `ProcCharges`: 4 → 3
@@ -786,7 +786,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 
 6 added, 6 removed, 0 changed.
 
-### Added
+### $\color{#3FB950}\textbf{Added}$
 
 - (101888)
 - (101889)
@@ -795,7 +795,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 - (101953)
 - (102004)
 
-### Removed
+### $\color{#F85149}\textbf{Removed}$
 
 - (53522)
 - (53523)
@@ -808,7 +808,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 
 64 added, 20 removed, 72 changed.
 
-### Added
+### $\color{#3FB950}\textbf{Added}$
 
 - (1357678)
 - (1357699)
@@ -875,7 +875,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 - (1359782)
 - (1359783)
 
-### Removed
+### $\color{#F85149}\textbf{Removed}$
 
 - (1054072)
 - (1253572)
@@ -898,7 +898,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 - (1357632)
 - (1357633)
 
-### Changed
+### $\color{#D29922}\textbf{Changed}$
 
 - **(679272)**
   - `EffectBasePointsF`: -140 → -280
@@ -1105,7 +1105,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 
 37 added, 15 removed, 92 changed, 1 mass-changed column(s).
 
-### Added
+### $\color{#3FB950}\textbf{Added}$
 
 - (867729)
 - (867740)
@@ -1145,7 +1145,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 - (869083)
 - (869084)
 
-### Removed
+### $\color{#F85149}\textbf{Removed}$
 
 - (664530)
 - (804038)
@@ -1163,7 +1163,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 - (867686)
 - (867687)
 
-### Changed
+### $\color{#D29922}\textbf{Changed}$
 
 - **(28061)**
   - `Attributes_13`: 0 → 32
@@ -1378,7 +1378,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 - **(867269)**
   - `Attributes_0`: 448 → 65984
 
-### Mass changes
+### $\color{#A371F7}\textbf{Mass changes}$
 
 - `SpellIconFileDataID` changed in 51 rows (e.g. 136235 → 136243, 136235 → 136243, 136235 → 136243)
 
@@ -1386,7 +1386,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 
 37 added, 15 removed, 25 changed.
 
-### Added
+### $\color{#3FB950}\textbf{Added}$
 
 - [DNT]Avatar of Hakkar Player Checker (1322065)
 - [DNT]Avatar of Hakkar Player Checker Ping (1322067)
@@ -1426,7 +1426,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 - Rule of Rage (DND) (1322574)
 - Corpse Chopper (1322305)
 
-### Removed
+### $\color{#F85149}\textbf{Removed}$
 
 - Create Test Ring Test (405667)
 - Roast Beast (1249805)
@@ -1444,7 +1444,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 - Prepare Fish (1292246)
 - Infernal (1322005)
 
-### Changed
+### $\color{#D29922}\textbf{Changed}$
 
 - **Palomino Stallion (471)**
   - `Name_lang`: Palamino Stallion → Palomino Stallion
@@ -1501,11 +1501,11 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 
 1 added, 1 removed, 0 changed.
 
-### Added
+### $\color{#3FB950}\textbf{Added}$
 
 - (314986)
 
-### Removed
+### $\color{#F85149}\textbf{Removed}$
 
 - (312962)
 
@@ -1513,7 +1513,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 
 26 added, 12 removed, 29 changed.
 
-### Added
+### $\color{#3FB950}\textbf{Added}$
 
 - (536167)
 - (536246)
@@ -1542,7 +1542,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 - (536977)
 - (536978)
 
-### Removed
+### $\color{#F85149}\textbf{Removed}$
 
 - (383537)
 - (492176)
@@ -1557,7 +1557,7 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 - (536148)
 - (536149)
 
-### Changed
+### $\color{#D29922}\textbf{Changed}$
 
 - **(419557)**
   - `SpellVisualID`: 41 → 263
@@ -1622,12 +1622,12 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 
 2 added, 0 removed, 1 changed.
 
-### Added
+### $\color{#3FB950}\textbf{Added}$
 
 - (145858)
 - (145859)
 
-### Changed
+### $\color{#D29922}\textbf{Changed}$
 
 - **(134412)**
   - `SpellID`: 417046 → 1322605
@@ -1636,11 +1636,11 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 
 1 added, 0 removed, 4 changed.
 
-### Added
+### $\color{#3FB950}\textbf{Added}$
 
 - (113563)
 
-### Changed
+### $\color{#D29922}\textbf{Changed}$
 
 - **(104945)**
   - `PosY`: 3930 → 3330
@@ -1656,12 +1656,12 @@ Compared `builds/1.60.1.70124` → `builds/1.60.1.70170`.
 
 2 added, 0 removed, 1 changed.
 
-### Added
+### $\color{#3FB950}\textbf{Added}$
 
 - (141187)
 - (141188)
 
-### Changed
+### $\color{#D29922}\textbf{Changed}$
 
 - **(129611)**
   - `MaxRanks`: 3 → 1
